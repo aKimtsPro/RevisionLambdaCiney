@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface IVieillir {
+public interface IVieillir {
+
+    void vieillir();
+
 }
